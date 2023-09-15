@@ -1,5 +1,1 @@
-👂 My name is: Noah,
-👩 Pronouns: He/Him,
-⚡ I'm: 16 years old,
-🌱 I’m currently learning: Python,
-❤️ I love: Cats,
+
